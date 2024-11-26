@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "apriori",
+			"path": "."
+		},
+		{
+			"name": "templates",
+			"path": "../templates"
+		}
+	]
+}
